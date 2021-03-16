@@ -1,7 +1,5 @@
 # Curso FullStack polo-utn
-holaaaaa
 ## Software necesario
-hago otro cambio y borroasasa
 + git https://git-scm.com/downloads
 + Node js instalado, Ultima version LTS minimo https://nodejs.org/
 + Angular CLI https://cli.angular.io/
